@@ -1,0 +1,7 @@
+PARTE 2 — Tabela Verdade
+
+p/q/p&&q         p/q/p||q
+V/V/V            V/V/V 
+V/F/F            V/F/V
+F/V/F            F/V/V
+F/F/F            F/F/F
